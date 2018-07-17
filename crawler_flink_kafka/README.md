@@ -23,7 +23,18 @@ Siga as instruções abaixo:
 
 ## Flink
 O job do Flink irá ler as mensagens do Kafka. Siga as instruções abaixo:
-- Compile o projeto word-count, que é um projeto Maven com as dependências de biblioteca já configuradas.
+- Compile o projeto word-count, que é um projeto Maven com as dependências de biblioteca já configuradas. Para isso, antes instale o Maven com os comandos abaixo:
+
+```sudo apt-get update```
+
+```sudo apt-get install maven```
+- Para executar o projeto basta digitar o comando abaixo. A classe Java StringTransform será executada. A classe StringTransform está na pasta src/main/java/flink/kafka no projeto flink-kafka. O código da classe StringTransform está comentado para facilitar o entendimento. Compile o projeto e carregue as dependências. Demora apenas na primeira vez.
+
+```mvn clean install```
+- Execute o projeto
+
+```mvn exec:java -Dexec.mainClass="flink.kafka.StringTransform"```
+
 - Execute a classe ReadFromKafka. Ela irá ler as mensagens que estão chegando no tópico farmacia do Kafka
 
 ## Crawler

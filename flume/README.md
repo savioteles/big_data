@@ -39,7 +39,7 @@ agent.sinks.sink2.channel = chan2
 
 - Abra o terminao e inicie o flume:
 	
-	```cd Downloads/big_data/apache-flume-1.8.0-bin/```
+	```cd ~/Downloads/big_data/apache-flume-1.8.0-bin/```
 
 - Execute o Apache Flume com o a configuração do stream acima (que está salvo no arquivo conf/example.conf)
 	

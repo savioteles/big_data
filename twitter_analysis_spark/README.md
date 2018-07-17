@@ -75,5 +75,5 @@ A aplicação de análise de sentimentos do Twitter utilizando o Spark está no 
 
 Para iniciar a aplicação digite o comando abaixo no terminal dentro da pasta do projeto:
 
-``sudo /home/etl/Downloads/spark-1.5.1-bin-hadoop2.6/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka_2.10:1.5.1 twitterStream.py```
+```sudo /home/etl/Downloads/spark-1.5.1-bin-hadoop2.6/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka_2.10:1.5.1 twitterStream.py```
 

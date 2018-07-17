@@ -7,8 +7,8 @@
     ```cd ~/Downloads/big_data/sqoop-1.4.7.bin__hadoop-2.6.0```
 
 - Instalar driver postgres
-    -- Baixar o jar https://jdbc.postgresql.org/download/postgresql-42.2.4.jar
-    -- Colocar o jar dentro da pasta do sqoop (~/Downloads/sqoop-1.4.7.bin__hadoop-2.6.0)
+    - Baixar o jar https://jdbc.postgresql.org/download/postgresql-42.2.4.jar
+    - Colocar o jar dentro da pasta do sqoop (~/Downloads/sqoop-1.4.7.bin__hadoop-2.6.0)
 
 - Listar Tabelas para ver se está funcionando a integração com o Postgres
     

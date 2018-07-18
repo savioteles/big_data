@@ -28,5 +28,5 @@
 
 - Importação dos dados mudando o paralelismo de 1 para 4
 
-    ```bin/sqoop import --connect jdbc:postgresql://localhost/postgres --username postgres --password postgres --driver org.postgresql.Driver --table orders_sale -m 4 --split-by row_id --target-dir /fasam/orders_sale_paralle```
+    ```bin/sqoop import --connect jdbc:postgresql://localhost/postgres --username postgres --password postgres --driver org.postgresql.Driver --table orders_sale -m 4 --split-by row_id --target-dir /fasam/orders_sale_parallel```
 

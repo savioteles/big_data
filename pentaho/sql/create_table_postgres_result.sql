@@ -1,0 +1,1 @@
+﻿CREATE TABLE hospital_result (empresa text,mes text,ano integer,nome text,cargo text,lotacao text,admissao date,nascimento integer,vencimentos double precision,encargos double precision,beneficios double precision,outras integer,vinculo text, idade integer, tempo_de_servico integer, vinculo_code integer)

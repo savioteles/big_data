@@ -12,7 +12,7 @@ Nesta seção iremos iniciar a estrutura do kafka. Primeiro faça o download do 
 
 - Entre na pasta de Downloads e baixe o Kafka 0.8
 
-```cd /home/etl/Downloads```
+```cd /home/etl/Downloads/big_data```
 
 ```wget https://archive.apache.org/dist/kafka/0.8.1.1/kafka_2.10-0.8.1.1.tgz```
 
@@ -45,7 +45,7 @@ Nesta seção iremos iniciar a estrutura do kafka. Primeiro faça o download do 
 
 Primeiro faça o download do Spark 1.5.1 com os passos abaixo:
 
-```cd /home/etl/Downloads```
+```cd /home/etl/Downloads/big_data```
 
 ```wget https://d3kbcqa49mib13.cloudfront.net/spark-1.5.1-bin-hadoop2.6.tgz```
 
@@ -75,5 +75,5 @@ A aplicação de análise de sentimentos do Twitter utilizando o Spark está no 
 
 Para iniciar a aplicação digite o comando abaixo no terminal dentro da pasta do projeto:
 
-``sudo /home/etl/Downloads/spark-1.5.1-bin-hadoop2.6/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka_2.10:1.5.1 twitterStream.py```
+```sudo /home/etl/Downloads/big_data/spark-1.5.1-bin-hadoop2.6/bin/spark-submit --packages org.apache.spark:spark-streaming-kafka_2.10:1.5.1 twitterStream.py```
 

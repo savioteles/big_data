@@ -11,7 +11,7 @@ Neste projeto apresentamos um exemplo de ETL utilizando o Pentaho. Neste exemplo
 	- Servidor público cedido por outro ente: Servidor Público Municipal -> 3
 	- Desligado -> 4
 
-O resultado é escrito na tabela hospital_result no Postgres. A pasta sql contém o arquivo sql (create_table_postgres_result.sql) utilizado para criar a tabela de saída no Postgres.
+O resultado é escrito na tabela hospital_result no Postgres. A pasta sql contém o arquivo create_table_postgres_result.sql utilizado para criar a tabela de saída no Postgres.
 
 Para abrir o Pentaho entre o comando abaixo:
 

@@ -9,9 +9,13 @@ Siga as instruções abaixo:
 - Baixe a versão 0.11.0.3 do Kafka no link: https://www.apache.org/dyn/closer.cgi?path=/kafka/0.11.0.3/kafka_2.11-0.11.0.3.tgz
 - Descompacte em uma pasta local
 - Abra a pasta descompactada do Kafka no terminal
+
+	```cd /home/etl/Downloads/big_data/kafka_2.11-0.11.0.3/```
+
 - Inicie o Zookeeper com o comando:
 
 	```bin/zookeeper-server-start.sh config/zookeeper.properties```
+	
 - Em outra aba do terminal, inicie o servidor do Kafka:
 
 	```bin/kafka-server-start.sh config/server.properties```

@@ -13,7 +13,7 @@ Os exemplos deste projeto utilizam o ambiente Ubuntu 16.04 já configurado com:
 - [Apache Kafka](https://kafka.apache.org/)
 - [Pentaho Data Integration](https://www.hitachivantara.com/en-us/products/big-data-integration-analytics/pentaho-data-integration.html)
 - [Scrapy](https://scrapy.org/)
-- Tweepy
+- [Tweepy](http://www.tweepy.org/)
 
 O ambiente com estas ferramentas foi configurado na máquina virtual do VirtualBox que pode ser baixado no link [https://bit.ly/2uHn4sK](https://bit.ly/2uHn4sK).
 

@@ -15,6 +15,3 @@ Os exemplos deste projeto utilizam o ambiente Ubuntu 16.04 já configurado com:
 - [Scrapy](https://scrapy.org/)
 - [Tweepy](http://www.tweepy.org/)
 
-O ambiente com estas ferramentas foi configurado na máquina virtual do VirtualBox que pode ser baixado no link [https://bit.ly/2uHn4sK](https://bit.ly/2uHn4sK).
-
-

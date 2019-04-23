@@ -1,0 +1,1549 @@
+{
+  "url": "http://api.pgi.gov.br/api/1/serie/1479.json",
+  "id": 1479,
+  "nome": "Valores captados Lei Rouanet",
+  "nome_estendido": "Valores captados por incentivos fiscais à projetos culturais pela Lei Rouanet",
+  "descricao": "Valores captados por incentivos fiscais à projetos culturais pela Lei Rouanet.",
+  "inicio": "2003",
+  "final": "2013",
+  "formatacao": "2",
+  "data_atualizacao": "2014-08-04 00:22:00.393468",
+  "aditividade": "1",
+  "url_origem": "http://www.cultura.gov.br/",
+  "tempo_aditividade": "1",
+  "portal_dados_abertos": false,
+  "disponibilizacao": {
+    "disponibilizacao": "365 dias",
+    "dias": 365
+  },
+  "estado": {
+    "estado": "Em uso"
+  },
+  "fonte_gestora": {
+    "url": "http://api.pgi.gov.br/api/1/fonte/138.json",
+    "id": 138,
+    "nome": "MinC/GABMIN",
+    "descricao": "Gabinete do Ministro",
+    "tipo": "1",
+    "orgao_primeiro_escalao": {
+      "nome": "MinC",
+      "descricao": "Ministério da Cultura"
+    }
+  },
+  "fonte_provedora": {
+    "url": "http://api.pgi.gov.br/api/1/fonte/138.json",
+    "id": 138,
+    "nome": "MinC/GABMIN",
+    "descricao": "Gabinete do Ministro",
+    "tipo": "1",
+    "orgao_primeiro_escalao": {
+      "nome": "MinC",
+      "descricao": "Ministério da Cultura"
+    }
+  },
+  "grupo_informacao": {
+    "url": "http://api.pgi.gov.br/api/1/grupo/387.json",
+    "id": 387,
+    "nome": "Incentivo fiscal para projetos culturais",
+    "palavras_chave": []
+  },
+  "base_territorial": {
+    "base_territorial": "Estadual"
+  },
+  "periodicidade": {
+    "periodicidade": "Anual"
+  },
+  "multiplicador": {
+    "id": 1,
+    "nome": ""
+  },
+  "produto": {
+    "nome": "Valor",
+    "descricao": "Valor"
+  },
+  "publicacao": {
+    "status_publicacao": "Dados Publicados"
+  },
+  "unidade_medida": {
+    "url": "http://api.pgi.gov.br/api/1/unidade/3.json",
+    "id": 3,
+    "nome": "Real (R$)",
+    "unidade_medida": "R$"
+  },
+  "orgao_primeiro_escalao": {
+    "nome": "MinC",
+    "descricao": "Ministério da Cultura"
+  },
+  "valores": [
+    {
+      "valor": 254300,
+      "estado_ibge": 11,
+      "ano": 2003
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 12,
+      "ano": 2003
+    },
+    {
+      "valor": 300000,
+      "estado_ibge": 13,
+      "ano": 2003
+    },
+    {
+      "valor": 30000,
+      "estado_ibge": 14,
+      "ano": 2003
+    },
+    {
+      "valor": 5842618,
+      "estado_ibge": 15,
+      "ano": 2003
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 16,
+      "ano": 2003
+    },
+    {
+      "valor": 81220,
+      "estado_ibge": 17,
+      "ano": 2003
+    },
+    {
+      "valor": 893896,
+      "estado_ibge": 21,
+      "ano": 2003
+    },
+    {
+      "valor": 1173000,
+      "estado_ibge": 22,
+      "ano": 2003
+    },
+    {
+      "valor": 193091.87,
+      "estado_ibge": 24,
+      "ano": 2003
+    },
+    {
+      "valor": 20000,
+      "estado_ibge": 25,
+      "ano": 2003
+    },
+    {
+      "valor": 9616399.59,
+      "estado_ibge": 26,
+      "ano": 2003
+    },
+    {
+      "valor": 162224,
+      "estado_ibge": 27,
+      "ano": 2003
+    },
+    {
+      "valor": 1967113.31,
+      "estado_ibge": 28,
+      "ano": 2003
+    },
+    {
+      "valor": 10662327.93,
+      "estado_ibge": 29,
+      "ano": 2003
+    },
+    {
+      "valor": 44139927.77,
+      "estado_ibge": 31,
+      "ano": 2003
+    },
+    {
+      "valor": 704472.83,
+      "estado_ibge": 32,
+      "ano": 2003
+    },
+    {
+      "valor": 10980798.7,
+      "estado_ibge": 41,
+      "ano": 2003
+    },
+    {
+      "valor": 7492236.35,
+      "estado_ibge": 42,
+      "ano": 2003
+    },
+    {
+      "valor": 1418074.25,
+      "estado_ibge": 50,
+      "ano": 2003
+    },
+    {
+      "valor": 255064.16,
+      "estado_ibge": 51,
+      "ano": 2003
+    },
+    {
+      "valor": 4377431.97,
+      "estado_ibge": 52,
+      "ano": 2003
+    },
+    {
+      "valor": 16612977.06,
+      "estado_ibge": 53,
+      "ano": 2003
+    },
+    {
+      "valor": 394799.48,
+      "estado_ibge": 11,
+      "ano": 2004
+    },
+    {
+      "valor": 112041.19,
+      "estado_ibge": 12,
+      "ano": 2004
+    },
+    {
+      "valor": 3400000,
+      "estado_ibge": 13,
+      "ano": 2004
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 14,
+      "ano": 2004
+    },
+    {
+      "valor": 5224465.71,
+      "estado_ibge": 15,
+      "ano": 2004
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 16,
+      "ano": 2004
+    },
+    {
+      "valor": 696593.88,
+      "estado_ibge": 17,
+      "ano": 2004
+    },
+    {
+      "valor": 825104.5,
+      "estado_ibge": 21,
+      "ano": 2004
+    },
+    {
+      "valor": 1805000,
+      "estado_ibge": 22,
+      "ano": 2004
+    },
+    {
+      "valor": 6446545.15,
+      "estado_ibge": 23,
+      "ano": 2004
+    },
+    {
+      "valor": 897143.88,
+      "estado_ibge": 24,
+      "ano": 2004
+    },
+    {
+      "valor": 184400,
+      "estado_ibge": 25,
+      "ano": 2004
+    },
+    {
+      "valor": 849715.14,
+      "estado_ibge": 27,
+      "ano": 2004
+    },
+    {
+      "valor": 4230387.47,
+      "estado_ibge": 28,
+      "ano": 2004
+    },
+    {
+      "valor": 9241517.68,
+      "estado_ibge": 29,
+      "ano": 2004
+    },
+    {
+      "valor": 2545503.23,
+      "estado_ibge": 32,
+      "ano": 2004
+    },
+    {
+      "valor": 1148773.84,
+      "estado_ibge": 50,
+      "ano": 2004
+    },
+    {
+      "valor": 1191249.9,
+      "estado_ibge": 51,
+      "ano": 2004
+    },
+    {
+      "valor": 4573416.55,
+      "estado_ibge": 52,
+      "ano": 2004
+    },
+    {
+      "valor": 9728327.11,
+      "estado_ibge": 53,
+      "ano": 2004
+    },
+    {
+      "valor": 249039.11,
+      "estado_ibge": 11,
+      "ano": 2005
+    },
+    {
+      "valor": 1113391.72,
+      "estado_ibge": 12,
+      "ano": 2005
+    },
+    {
+      "valor": 738033.73,
+      "estado_ibge": 13,
+      "ano": 2005
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 14,
+      "ano": 2005
+    },
+    {
+      "valor": 2137889.54,
+      "estado_ibge": 15,
+      "ano": 2005
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 16,
+      "ano": 2005
+    },
+    {
+      "valor": 302000,
+      "estado_ibge": 17,
+      "ano": 2005
+    },
+    {
+      "valor": 4775917.45,
+      "estado_ibge": 21,
+      "ano": 2005
+    },
+    {
+      "valor": 1268950,
+      "estado_ibge": 22,
+      "ano": 2005
+    },
+    {
+      "valor": 7526351.2,
+      "estado_ibge": 23,
+      "ano": 2005
+    },
+    {
+      "valor": 1451363.86,
+      "estado_ibge": 24,
+      "ano": 2005
+    },
+    {
+      "valor": 488625,
+      "estado_ibge": 25,
+      "ano": 2005
+    },
+    {
+      "valor": 12065535.36,
+      "estado_ibge": 26,
+      "ano": 2005
+    },
+    {
+      "valor": 682648.75,
+      "estado_ibge": 27,
+      "ano": 2005
+    },
+    {
+      "valor": 4451548.69,
+      "estado_ibge": 28,
+      "ano": 2005
+    },
+    {
+      "valor": 19039820.22,
+      "estado_ibge": 29,
+      "ano": 2005
+    },
+    {
+      "valor": 79991234.359,
+      "estado_ibge": 31,
+      "ano": 2005
+    },
+    {
+      "valor": 5347721.52,
+      "estado_ibge": 32,
+      "ano": 2005
+    },
+    {
+      "valor": 198598718.2,
+      "estado_ibge": 33,
+      "ano": 2005
+    },
+    {
+      "valor": 17079250.92,
+      "estado_ibge": 41,
+      "ano": 2005
+    },
+    {
+      "valor": 49305232.89,
+      "estado_ibge": 43,
+      "ano": 2005
+    },
+    {
+      "valor": 2837122.96,
+      "estado_ibge": 50,
+      "ano": 2005
+    },
+    {
+      "valor": 1335000,
+      "estado_ibge": 51,
+      "ano": 2005
+    },
+    {
+      "valor": 3255424.82,
+      "estado_ibge": 52,
+      "ano": 2005
+    },
+    {
+      "valor": 11007726.27,
+      "estado_ibge": 53,
+      "ano": 2005
+    },
+    {
+      "valor": 177412.02,
+      "estado_ibge": 11,
+      "ano": 2006
+    },
+    {
+      "valor": 1089745.25,
+      "estado_ibge": 12,
+      "ano": 2006
+    },
+    {
+      "valor": 1592331.11,
+      "estado_ibge": 13,
+      "ano": 2006
+    },
+    {
+      "valor": 25000,
+      "estado_ibge": 14,
+      "ano": 2006
+    },
+    {
+      "valor": 3000033.33,
+      "estado_ibge": 15,
+      "ano": 2006
+    },
+    {
+      "valor": 20000,
+      "estado_ibge": 16,
+      "ano": 2006
+    },
+    {
+      "valor": 534425,
+      "estado_ibge": 17,
+      "ano": 2006
+    },
+    {
+      "valor": 2437213.2,
+      "estado_ibge": 22,
+      "ano": 2006
+    },
+    {
+      "valor": 10883607.18,
+      "estado_ibge": 23,
+      "ano": 2006
+    },
+    {
+      "valor": 289226.4,
+      "estado_ibge": 24,
+      "ano": 2006
+    },
+    {
+      "valor": 456131.62,
+      "estado_ibge": 25,
+      "ano": 2006
+    },
+    {
+      "valor": 1859770.66,
+      "estado_ibge": 27,
+      "ano": 2006
+    },
+    {
+      "valor": 1576900,
+      "estado_ibge": 28,
+      "ano": 2006
+    },
+    {
+      "valor": 103873117.01,
+      "estado_ibge": 31,
+      "ano": 2006
+    },
+    {
+      "valor": 9796238.82,
+      "estado_ibge": 32,
+      "ano": 2006
+    },
+    {
+      "valor": 11281764.08,
+      "estado_ibge": 42,
+      "ano": 2006
+    },
+    {
+      "valor": 2689122.13,
+      "estado_ibge": 50,
+      "ano": 2006
+    },
+    {
+      "valor": 2147255.43,
+      "estado_ibge": 51,
+      "ano": 2006
+    },
+    {
+      "valor": 4780833.52,
+      "estado_ibge": 52,
+      "ano": 2006
+    },
+    {
+      "valor": 446508,
+      "estado_ibge": 11,
+      "ano": 2007
+    },
+    {
+      "valor": 593448.29,
+      "estado_ibge": 12,
+      "ano": 2007
+    },
+    {
+      "valor": 1826968.88,
+      "estado_ibge": 13,
+      "ano": 2007
+    },
+    {
+      "valor": 95000,
+      "estado_ibge": 14,
+      "ano": 2007
+    },
+    {
+      "valor": 3713560.37,
+      "estado_ibge": 15,
+      "ano": 2007
+    },
+    {
+      "valor": 160000,
+      "estado_ibge": 16,
+      "ano": 2007
+    },
+    {
+      "valor": 1266001.74,
+      "estado_ibge": 17,
+      "ano": 2007
+    },
+    {
+      "valor": 3754528.93,
+      "estado_ibge": 21,
+      "ano": 2007
+    },
+    {
+      "valor": 480375,
+      "estado_ibge": 22,
+      "ano": 2007
+    },
+    {
+      "valor": 8850204.55,
+      "estado_ibge": 23,
+      "ano": 2007
+    },
+    {
+      "valor": 1051344.27,
+      "estado_ibge": 24,
+      "ano": 2007
+    },
+    {
+      "valor": 671050,
+      "estado_ibge": 25,
+      "ano": 2007
+    },
+    {
+      "valor": 2038906.36,
+      "estado_ibge": 27,
+      "ano": 2007
+    },
+    {
+      "valor": 1065560,
+      "estado_ibge": 28,
+      "ano": 2007
+    },
+    {
+      "valor": 26206613.26,
+      "estado_ibge": 29,
+      "ano": 2007
+    },
+    {
+      "valor": 8886921.86,
+      "estado_ibge": 32,
+      "ano": 2007
+    },
+    {
+      "valor": 2641577.24,
+      "estado_ibge": 50,
+      "ano": 2007
+    },
+    {
+      "valor": 1949789.59,
+      "estado_ibge": 51,
+      "ano": 2007
+    },
+    {
+      "valor": 4116784,
+      "estado_ibge": 52,
+      "ano": 2007
+    },
+    {
+      "valor": 18349576.93,
+      "estado_ibge": 53,
+      "ano": 2007
+    },
+    {
+      "valor": 1370330,
+      "estado_ibge": 11,
+      "ano": 2008
+    },
+    {
+      "valor": 655904.5,
+      "estado_ibge": 12,
+      "ano": 2008
+    },
+    {
+      "valor": 750193.86,
+      "estado_ibge": 13,
+      "ano": 2008
+    },
+    {
+      "valor": 1410040.9,
+      "estado_ibge": 15,
+      "ano": 2008
+    },
+    {
+      "valor": 611927.2,
+      "estado_ibge": 16,
+      "ano": 2008
+    },
+    {
+      "valor": 355858.89,
+      "estado_ibge": 17,
+      "ano": 2008
+    },
+    {
+      "valor": 2578426.51,
+      "estado_ibge": 21,
+      "ano": 2008
+    },
+    {
+      "valor": 11341428.19,
+      "estado_ibge": 23,
+      "ano": 2008
+    },
+    {
+      "valor": 1368408.2,
+      "estado_ibge": 24,
+      "ano": 2008
+    },
+    {
+      "valor": 1382416.16,
+      "estado_ibge": 25,
+      "ano": 2008
+    },
+    {
+      "valor": 16898566.09,
+      "estado_ibge": 26,
+      "ano": 2008
+    },
+    {
+      "valor": 1477331,
+      "estado_ibge": 27,
+      "ano": 2008
+    },
+    {
+      "valor": 2142526.59,
+      "estado_ibge": 28,
+      "ano": 2008
+    },
+    {
+      "valor": 19483683.924,
+      "estado_ibge": 29,
+      "ano": 2008
+    },
+    {
+      "valor": 108650925.05,
+      "estado_ibge": 31,
+      "ano": 2008
+    },
+    {
+      "valor": 7650131.71,
+      "estado_ibge": 32,
+      "ano": 2008
+    },
+    {
+      "valor": 741775.65,
+      "estado_ibge": 50,
+      "ano": 2008
+    },
+    {
+      "valor": 1340022.46,
+      "estado_ibge": 51,
+      "ano": 2008
+    },
+    {
+      "valor": 4007510.08,
+      "estado_ibge": 52,
+      "ano": 2008
+    },
+    {
+      "valor": 20382329.37,
+      "estado_ibge": 53,
+      "ano": 2008
+    },
+    {
+      "valor": 562722,
+      "estado_ibge": 11,
+      "ano": 2009
+    },
+    {
+      "valor": 25000,
+      "estado_ibge": 12,
+      "ano": 2009
+    },
+    {
+      "valor": 714888.46,
+      "estado_ibge": 13,
+      "ano": 2009
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 14,
+      "ano": 2009
+    },
+    {
+      "valor": 4149645.33,
+      "estado_ibge": 15,
+      "ano": 2009
+    },
+    {
+      "valor": 142410.8,
+      "estado_ibge": 16,
+      "ano": 2009
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 17,
+      "ano": 2009
+    },
+    {
+      "valor": 2017713.8,
+      "estado_ibge": 21,
+      "ano": 2009
+    },
+    {
+      "valor": 2754726.19,
+      "estado_ibge": 22,
+      "ano": 2009
+    },
+    {
+      "valor": 13760618.76,
+      "estado_ibge": 23,
+      "ano": 2009
+    },
+    {
+      "valor": 989317.8,
+      "estado_ibge": 24,
+      "ano": 2009
+    },
+    {
+      "valor": 1258091.75,
+      "estado_ibge": 25,
+      "ano": 2009
+    },
+    {
+      "valor": 24654789.95,
+      "estado_ibge": 26,
+      "ano": 2009
+    },
+    {
+      "valor": 159000,
+      "estado_ibge": 27,
+      "ano": 2009
+    },
+    {
+      "valor": 1401105,
+      "estado_ibge": 28,
+      "ano": 2009
+    },
+    {
+      "valor": 18212090.5,
+      "estado_ibge": 29,
+      "ano": 2009
+    },
+    {
+      "valor": 89483276.97,
+      "estado_ibge": 31,
+      "ano": 2009
+    },
+    {
+      "valor": 3499900.89,
+      "estado_ibge": 32,
+      "ano": 2009
+    },
+    {
+      "valor": 278573489.63,
+      "estado_ibge": 33,
+      "ano": 2009
+    },
+    {
+      "valor": 399415971.79,
+      "estado_ibge": 35,
+      "ano": 2009
+    },
+    {
+      "valor": 26067364.88,
+      "estado_ibge": 41,
+      "ano": 2009
+    },
+    {
+      "valor": 19877897.14,
+      "estado_ibge": 42,
+      "ano": 2009
+    },
+    {
+      "valor": 56172592.58,
+      "estado_ibge": 43,
+      "ano": 2009
+    },
+    {
+      "valor": 898470.5,
+      "estado_ibge": 50,
+      "ano": 2009
+    },
+    {
+      "valor": 1772717.06,
+      "estado_ibge": 51,
+      "ano": 2009
+    },
+    {
+      "valor": 3530510.64,
+      "estado_ibge": 52,
+      "ano": 2009
+    },
+    {
+      "valor": 29946493.3,
+      "estado_ibge": 53,
+      "ano": 2009
+    },
+    {
+      "valor": 867498,
+      "estado_ibge": 11,
+      "ano": 2010
+    },
+    {
+      "valor": 60000,
+      "estado_ibge": 12,
+      "ano": 2010
+    },
+    {
+      "valor": 3411898.19,
+      "estado_ibge": 13,
+      "ano": 2010
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 14,
+      "ano": 2010
+    },
+    {
+      "valor": 22526871.89,
+      "estado_ibge": 15,
+      "ano": 2010
+    },
+    {
+      "valor": 61000,
+      "estado_ibge": 16,
+      "ano": 2010
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 17,
+      "ano": 2010
+    },
+    {
+      "valor": 10206013.78,
+      "estado_ibge": 21,
+      "ano": 2010
+    },
+    {
+      "valor": 1957574.28,
+      "estado_ibge": 22,
+      "ano": 2010
+    },
+    {
+      "valor": 16340775.46,
+      "estado_ibge": 23,
+      "ano": 2010
+    },
+    {
+      "valor": 1645106,
+      "estado_ibge": 24,
+      "ano": 2010
+    },
+    {
+      "valor": 1484181.01,
+      "estado_ibge": 25,
+      "ano": 2010
+    },
+    {
+      "valor": 17991286.42,
+      "estado_ibge": 26,
+      "ano": 2010
+    },
+    {
+      "valor": 698555.08,
+      "estado_ibge": 27,
+      "ano": 2010
+    },
+    {
+      "valor": 1029839,
+      "estado_ibge": 28,
+      "ano": 2010
+    },
+    {
+      "valor": 19731866.57,
+      "estado_ibge": 29,
+      "ano": 2010
+    },
+    {
+      "valor": 125932922.55,
+      "estado_ibge": 31,
+      "ano": 2010
+    },
+    {
+      "valor": 13901170.01,
+      "estado_ibge": 32,
+      "ano": 2010
+    },
+    {
+      "valor": 270918973.531,
+      "estado_ibge": 33,
+      "ano": 2010
+    },
+    {
+      "valor": 37630315.42,
+      "estado_ibge": 41,
+      "ano": 2010
+    },
+    {
+      "valor": 26237658.77,
+      "estado_ibge": 42,
+      "ano": 2010
+    },
+    {
+      "valor": 69147505.12,
+      "estado_ibge": 43,
+      "ano": 2010
+    },
+    {
+      "valor": 1524173.96,
+      "estado_ibge": 50,
+      "ano": 2010
+    },
+    {
+      "valor": 1921992.84,
+      "estado_ibge": 51,
+      "ano": 2010
+    },
+    {
+      "valor": 5350966.1,
+      "estado_ibge": 52,
+      "ano": 2010
+    },
+    {
+      "valor": 23788665.02,
+      "estado_ibge": 53,
+      "ano": 2010
+    },
+    {
+      "valor": 5510544.74,
+      "estado_ibge": 23,
+      "ano": 2003
+    },
+    {
+      "valor": 114527695.1,
+      "estado_ibge": 33,
+      "ano": 2003
+    },
+    {
+      "valor": 24521444.14,
+      "estado_ibge": 43,
+      "ano": 2003
+    },
+    {
+      "valor": 169157089.33,
+      "estado_ibge": 35,
+      "ano": 2003
+    },
+    {
+      "valor": 51122452.183,
+      "estado_ibge": 31,
+      "ano": 2004
+    },
+    {
+      "valor": 8109262.763,
+      "estado_ibge": 26,
+      "ano": 2004
+    },
+    {
+      "valor": 15132656.073,
+      "estado_ibge": 41,
+      "ano": 2004
+    },
+    {
+      "valor": 120210957.909,
+      "estado_ibge": 33,
+      "ano": 2004
+    },
+    {
+      "valor": 39834566.98,
+      "estado_ibge": 43,
+      "ano": 2004
+    },
+    {
+      "valor": 8576782.32,
+      "estado_ibge": 42,
+      "ano": 2004
+    },
+    {
+      "valor": 215266739.06,
+      "estado_ibge": 35,
+      "ano": 2004
+    },
+    {
+      "valor": 11376809.481,
+      "estado_ibge": 42,
+      "ano": 2005
+    },
+    {
+      "valor": 290287724.34,
+      "estado_ibge": 35,
+      "ano": 2005
+    },
+    {
+      "valor": 18320546.36,
+      "estado_ibge": 29,
+      "ano": 2006
+    },
+    {
+      "valor": 18790543.277,
+      "estado_ibge": 53,
+      "ano": 2006
+    },
+    {
+      "valor": 1710100.2,
+      "estado_ibge": 21,
+      "ano": 2006
+    },
+    {
+      "valor": 18298419.42,
+      "estado_ibge": 26,
+      "ano": 2006
+    },
+    {
+      "valor": 21176172.91,
+      "estado_ibge": 41,
+      "ano": 2006
+    },
+    {
+      "valor": 207813166.38,
+      "estado_ibge": 33,
+      "ano": 2006
+    },
+    {
+      "valor": 48775920.01,
+      "estado_ibge": 43,
+      "ano": 2006
+    },
+    {
+      "valor": 360753874.16,
+      "estado_ibge": 35,
+      "ano": 2006
+    },
+    {
+      "valor": 113151278.32,
+      "estado_ibge": 31,
+      "ano": 2007
+    },
+    {
+      "valor": 18565149.54,
+      "estado_ibge": 26,
+      "ano": 2007
+    },
+    {
+      "valor": 22022022.17,
+      "estado_ibge": 41,
+      "ano": 2007
+    },
+    {
+      "valor": 226644756.413,
+      "estado_ibge": 33,
+      "ano": 2007
+    },
+    {
+      "valor": 59722687.04,
+      "estado_ibge": 43,
+      "ano": 2007
+    },
+    {
+      "valor": 19608717.1,
+      "estado_ibge": 42,
+      "ano": 2007
+    },
+    {
+      "valor": 442010567.973,
+      "estado_ibge": 35,
+      "ano": 2007
+    },
+    {
+      "valor": 3126776.609,
+      "estado_ibge": 22,
+      "ano": 2008
+    },
+    {
+      "valor": 33600600.52,
+      "estado_ibge": 41,
+      "ano": 2008
+    },
+    {
+      "valor": 231060035.75,
+      "estado_ibge": 33,
+      "ano": 2008
+    },
+    {
+      "valor": 92500,
+      "estado_ibge": 14,
+      "ano": 2008
+    },
+    {
+      "valor": 59783943.57,
+      "estado_ibge": 43,
+      "ano": 2008
+    },
+    {
+      "valor": 16263025.86,
+      "estado_ibge": 42,
+      "ano": 2008
+    },
+    {
+      "valor": 415104537.89,
+      "estado_ibge": 35,
+      "ano": 2008
+    },
+    {
+      "valor": 492106132.72,
+      "estado_ibge": 35,
+      "ano": 2010
+    },
+    {
+      "valor": 90000,
+      "estado_ibge": 12,
+      "ano": 2011
+    },
+    {
+      "valor": 1547016.99,
+      "estado_ibge": 27,
+      "ano": 2011
+    },
+    {
+      "valor": 2133152.55,
+      "estado_ibge": 13,
+      "ano": 2011
+    },
+    {
+      "valor": 20000,
+      "estado_ibge": 16,
+      "ano": 2011
+    },
+    {
+      "valor": 16494931.76,
+      "estado_ibge": 29,
+      "ano": 2011
+    },
+    {
+      "valor": 16523774.47,
+      "estado_ibge": 23,
+      "ano": 2011
+    },
+    {
+      "valor": 23397498.38,
+      "estado_ibge": 53,
+      "ano": 2011
+    },
+    {
+      "valor": 5899519.5,
+      "estado_ibge": 32,
+      "ano": 2011
+    },
+    {
+      "valor": 8526974.29,
+      "estado_ibge": 52,
+      "ano": 2011
+    },
+    {
+      "valor": 4257025.87,
+      "estado_ibge": 21,
+      "ano": 2011
+    },
+    {
+      "valor": 127601435.44,
+      "estado_ibge": 31,
+      "ano": 2011
+    },
+    {
+      "valor": 2447713.6,
+      "estado_ibge": 50,
+      "ano": 2011
+    },
+    {
+      "valor": 4034516.87,
+      "estado_ibge": 51,
+      "ano": 2011
+    },
+    {
+      "valor": 5689654.67,
+      "estado_ibge": 15,
+      "ano": 2011
+    },
+    {
+      "valor": 1406920.72,
+      "estado_ibge": 25,
+      "ano": 2011
+    },
+    {
+      "valor": 23580379.02,
+      "estado_ibge": 26,
+      "ano": 2011
+    },
+    {
+      "valor": 3008677.03,
+      "estado_ibge": 22,
+      "ano": 2011
+    },
+    {
+      "valor": 47013887.88,
+      "estado_ibge": 41,
+      "ano": 2011
+    },
+    {
+      "valor": 351462546.21,
+      "estado_ibge": 33,
+      "ano": 2011
+    },
+    {
+      "valor": 1734862.5,
+      "estado_ibge": 24,
+      "ano": 2011
+    },
+    {
+      "valor": 500000,
+      "estado_ibge": 11,
+      "ano": 2011
+    },
+    {
+      "valor": 72510630.59,
+      "estado_ibge": 43,
+      "ano": 2011
+    },
+    {
+      "valor": 31733322.36,
+      "estado_ibge": 42,
+      "ano": 2011
+    },
+    {
+      "valor": 663986,
+      "estado_ibge": 28,
+      "ano": 2011
+    },
+    {
+      "valor": 571786989.08,
+      "estado_ibge": 35,
+      "ano": 2011
+    },
+    {
+      "valor": 74378,
+      "estado_ibge": 17,
+      "ano": 2011
+    },
+    {
+      "valor": 304374.82,
+      "estado_ibge": 12,
+      "ano": 2012
+    },
+    {
+      "valor": 1178000,
+      "estado_ibge": 27,
+      "ano": 2012
+    },
+    {
+      "valor": 1451747.24,
+      "estado_ibge": 13,
+      "ano": 2012
+    },
+    {
+      "valor": 90000,
+      "estado_ibge": 16,
+      "ano": 2012
+    },
+    {
+      "valor": 12773225.85,
+      "estado_ibge": 29,
+      "ano": 2012
+    },
+    {
+      "valor": 13880272.54,
+      "estado_ibge": 23,
+      "ano": 2012
+    },
+    {
+      "valor": 15871164.88,
+      "estado_ibge": 53,
+      "ano": 2012
+    },
+    {
+      "valor": 7066045.53,
+      "estado_ibge": 32,
+      "ano": 2012
+    },
+    {
+      "valor": 7611642.71,
+      "estado_ibge": 52,
+      "ano": 2012
+    },
+    {
+      "valor": 1647128.75,
+      "estado_ibge": 21,
+      "ano": 2012
+    },
+    {
+      "valor": 126983928.11,
+      "estado_ibge": 31,
+      "ano": 2012
+    },
+    {
+      "valor": 2737417.78,
+      "estado_ibge": 50,
+      "ano": 2012
+    },
+    {
+      "valor": 2119145.372,
+      "estado_ibge": 51,
+      "ano": 2012
+    },
+    {
+      "valor": 5872158.68,
+      "estado_ibge": 15,
+      "ano": 2012
+    },
+    {
+      "valor": 735570.9,
+      "estado_ibge": 25,
+      "ano": 2012
+    },
+    {
+      "valor": 18104598.15,
+      "estado_ibge": 26,
+      "ano": 2012
+    },
+    {
+      "valor": 2345162.5,
+      "estado_ibge": 22,
+      "ano": 2012
+    },
+    {
+      "valor": 48964637.5,
+      "estado_ibge": 41,
+      "ano": 2012
+    },
+    {
+      "valor": 333485175.72,
+      "estado_ibge": 33,
+      "ano": 2012
+    },
+    {
+      "valor": 3834778.07,
+      "estado_ibge": 24,
+      "ano": 2012
+    },
+    {
+      "valor": 1000000,
+      "estado_ibge": 11,
+      "ano": 2012
+    },
+    {
+      "valor": 110000,
+      "estado_ibge": 14,
+      "ano": 2012
+    },
+    {
+      "valor": 64295433.56,
+      "estado_ibge": 43,
+      "ano": 2012
+    },
+    {
+      "valor": 37008576.45,
+      "estado_ibge": 42,
+      "ano": 2012
+    },
+    {
+      "valor": 1081276,
+      "estado_ibge": 28,
+      "ano": 2012
+    },
+    {
+      "valor": 563265073.69,
+      "estado_ibge": 35,
+      "ano": 2012
+    },
+    {
+      "valor": 366972.5,
+      "estado_ibge": 17,
+      "ano": 2012
+    },
+    {
+      "valor": 43931.46,
+      "estado_ibge": 12,
+      "ano": 2013
+    },
+    {
+      "valor": 2720974.28,
+      "estado_ibge": 13,
+      "ano": 2013
+    },
+    {
+      "valor": 11298782.25,
+      "estado_ibge": 29,
+      "ano": 2013
+    },
+    {
+      "valor": 10902055.09,
+      "estado_ibge": 23,
+      "ano": 2013
+    },
+    {
+      "valor": 11646268.29,
+      "estado_ibge": 53,
+      "ano": 2013
+    },
+    {
+      "valor": 6853656.5,
+      "estado_ibge": 32,
+      "ano": 2013
+    },
+    {
+      "valor": 3825082.75,
+      "estado_ibge": 52,
+      "ano": 2013
+    },
+    {
+      "valor": 802488.3,
+      "estado_ibge": 21,
+      "ano": 2013
+    },
+    {
+      "valor": 120521642.55,
+      "estado_ibge": 31,
+      "ano": 2013
+    },
+    {
+      "valor": 337819.86,
+      "estado_ibge": 50,
+      "ano": 2013
+    },
+    {
+      "valor": 1986709.95,
+      "estado_ibge": 51,
+      "ano": 2013
+    },
+    {
+      "valor": 2073342.82,
+      "estado_ibge": 15,
+      "ano": 2013
+    },
+    {
+      "valor": 266641.33,
+      "estado_ibge": 25,
+      "ano": 2013
+    },
+    {
+      "valor": 15610136.43,
+      "estado_ibge": 26,
+      "ano": 2013
+    },
+    {
+      "valor": 1483823.03,
+      "estado_ibge": 22,
+      "ano": 2013
+    },
+    {
+      "valor": 48736170.77,
+      "estado_ibge": 41,
+      "ano": 2013
+    },
+    {
+      "valor": 289040661.34,
+      "estado_ibge": 33,
+      "ano": 2013
+    },
+    {
+      "valor": 8583190.31,
+      "estado_ibge": 24,
+      "ano": 2013
+    },
+    {
+      "valor": 1280807,
+      "estado_ibge": 11,
+      "ano": 2013
+    },
+    {
+      "valor": 4500,
+      "estado_ibge": 14,
+      "ano": 2013
+    },
+    {
+      "valor": 71054784.68,
+      "estado_ibge": 43,
+      "ano": 2013
+    },
+    {
+      "valor": 33605285.39,
+      "estado_ibge": 42,
+      "ano": 2013
+    },
+    {
+      "valor": 526715,
+      "estado_ibge": 28,
+      "ano": 2013
+    },
+    {
+      "valor": 506570766.96,
+      "estado_ibge": 35,
+      "ano": 2013
+    },
+    {
+      "valor": 271753.93,
+      "estado_ibge": 17,
+      "ano": 2013
+    }
+  ]
+}

@@ -1,0 +1,1559 @@
+{
+  "url": "http://api.pgi.gov.br/api/1/serie/1477.json",
+  "id": 1477,
+  "nome": "Projetos aprovados Lei Rouanet",
+  "nome_estendido": "Número de projetos aprovados pela Lei Rouanet",
+  "descricao": "Número de projetos aprovados pela Lei Rouanet - projetos culturais aprovados para receber incentivos fiscais.",
+  "inicio": "2003",
+  "final": "2013",
+  "formatacao": "0",
+  "data_atualizacao": "2014-08-04 00:21:29.386939",
+  "aditividade": "1",
+  "url_origem": "http://www.cultura.gov.br/",
+  "tempo_aditividade": "1",
+  "portal_dados_abertos": false,
+  "disponibilizacao": {
+    "disponibilizacao": "365 dias",
+    "dias": 365
+  },
+  "estado": {
+    "estado": "Em uso"
+  },
+  "fonte_gestora": {
+    "url": "http://api.pgi.gov.br/api/1/fonte/138.json",
+    "id": 138,
+    "nome": "MinC/GABMIN",
+    "descricao": "Gabinete do Ministro",
+    "tipo": "1",
+    "orgao_primeiro_escalao": {
+      "nome": "MinC",
+      "descricao": "Ministério da Cultura"
+    }
+  },
+  "fonte_provedora": {
+    "url": "http://api.pgi.gov.br/api/1/fonte/138.json",
+    "id": 138,
+    "nome": "MinC/GABMIN",
+    "descricao": "Gabinete do Ministro",
+    "tipo": "1",
+    "orgao_primeiro_escalao": {
+      "nome": "MinC",
+      "descricao": "Ministério da Cultura"
+    }
+  },
+  "grupo_informacao": {
+    "url": "http://api.pgi.gov.br/api/1/grupo/387.json",
+    "id": 387,
+    "nome": "Incentivo fiscal para projetos culturais",
+    "palavras_chave": []
+  },
+  "base_territorial": {
+    "base_territorial": "Estadual"
+  },
+  "periodicidade": {
+    "periodicidade": "Anual"
+  },
+  "multiplicador": {
+    "id": 1,
+    "nome": ""
+  },
+  "produto": {
+    "nome": "Quantidade",
+    "descricao": ""
+  },
+  "publicacao": {
+    "status_publicacao": "Dados Publicados"
+  },
+  "unidade_medida": {
+    "url": "http://api.pgi.gov.br/api/1/unidade/4.json",
+    "id": 4,
+    "nome": "Unidade",
+    "unidade_medida": "Un"
+  },
+  "orgao_primeiro_escalao": {
+    "nome": "MinC",
+    "descricao": "Ministério da Cultura"
+  },
+  "valores": [
+    {
+      "valor": 4,
+      "estado_ibge": 11,
+      "ano": 2003
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 12,
+      "ano": 2003
+    },
+    {
+      "valor": 6,
+      "estado_ibge": 13,
+      "ano": 2003
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2003
+    },
+    {
+      "valor": 23,
+      "estado_ibge": 15,
+      "ano": 2003
+    },
+    {
+      "valor": 3,
+      "estado_ibge": 16,
+      "ano": 2003
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 17,
+      "ano": 2003
+    },
+    {
+      "valor": 31,
+      "estado_ibge": 21,
+      "ano": 2003
+    },
+    {
+      "valor": 13,
+      "estado_ibge": 22,
+      "ano": 2003
+    },
+    {
+      "valor": 52,
+      "estado_ibge": 23,
+      "ano": 2003
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 24,
+      "ano": 2003
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 25,
+      "ano": 2003
+    },
+    {
+      "valor": 109,
+      "estado_ibge": 26,
+      "ano": 2003
+    },
+    {
+      "valor": 6,
+      "estado_ibge": 27,
+      "ano": 2003
+    },
+    {
+      "valor": 13,
+      "estado_ibge": 28,
+      "ano": 2003
+    },
+    {
+      "valor": 127,
+      "estado_ibge": 29,
+      "ano": 2003
+    },
+    {
+      "valor": 333,
+      "estado_ibge": 31,
+      "ano": 2003
+    },
+    {
+      "valor": 30,
+      "estado_ibge": 32,
+      "ano": 2003
+    },
+    {
+      "valor": 1082,
+      "estado_ibge": 33,
+      "ano": 2003
+    },
+    {
+      "valor": 1231,
+      "estado_ibge": 35,
+      "ano": 2003
+    },
+    {
+      "valor": 347,
+      "estado_ibge": 41,
+      "ano": 2003
+    },
+    {
+      "valor": 157,
+      "estado_ibge": 42,
+      "ano": 2003
+    },
+    {
+      "valor": 179,
+      "estado_ibge": 43,
+      "ano": 2003
+    },
+    {
+      "valor": 37,
+      "estado_ibge": 50,
+      "ano": 2003
+    },
+    {
+      "valor": 13,
+      "estado_ibge": 51,
+      "ano": 2003
+    },
+    {
+      "valor": 72,
+      "estado_ibge": 52,
+      "ano": 2003
+    },
+    {
+      "valor": 172,
+      "estado_ibge": 53,
+      "ano": 2003
+    },
+    {
+      "valor": 11,
+      "estado_ibge": 11,
+      "ano": 2004
+    },
+    {
+      "valor": 3,
+      "estado_ibge": 12,
+      "ano": 2004
+    },
+    {
+      "valor": 11,
+      "estado_ibge": 13,
+      "ano": 2004
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2004
+    },
+    {
+      "valor": 33,
+      "estado_ibge": 15,
+      "ano": 2004
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 16,
+      "ano": 2004
+    },
+    {
+      "valor": 17,
+      "estado_ibge": 17,
+      "ano": 2004
+    },
+    {
+      "valor": 33,
+      "estado_ibge": 21,
+      "ano": 2004
+    },
+    {
+      "valor": 9,
+      "estado_ibge": 22,
+      "ano": 2004
+    },
+    {
+      "valor": 76,
+      "estado_ibge": 23,
+      "ano": 2004
+    },
+    {
+      "valor": 14,
+      "estado_ibge": 24,
+      "ano": 2004
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 25,
+      "ano": 2004
+    },
+    {
+      "valor": 128,
+      "estado_ibge": 26,
+      "ano": 2004
+    },
+    {
+      "valor": 10,
+      "estado_ibge": 27,
+      "ano": 2004
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 28,
+      "ano": 2004
+    },
+    {
+      "valor": 163,
+      "estado_ibge": 29,
+      "ano": 2004
+    },
+    {
+      "valor": 497,
+      "estado_ibge": 31,
+      "ano": 2004
+    },
+    {
+      "valor": 24,
+      "estado_ibge": 32,
+      "ano": 2004
+    },
+    {
+      "valor": 1181,
+      "estado_ibge": 33,
+      "ano": 2004
+    },
+    {
+      "valor": 1450,
+      "estado_ibge": 35,
+      "ano": 2004
+    },
+    {
+      "valor": 409,
+      "estado_ibge": 41,
+      "ano": 2004
+    },
+    {
+      "valor": 197,
+      "estado_ibge": 42,
+      "ano": 2004
+    },
+    {
+      "valor": 266,
+      "estado_ibge": 43,
+      "ano": 2004
+    },
+    {
+      "valor": 39,
+      "estado_ibge": 50,
+      "ano": 2004
+    },
+    {
+      "valor": 37,
+      "estado_ibge": 51,
+      "ano": 2004
+    },
+    {
+      "valor": 85,
+      "estado_ibge": 52,
+      "ano": 2004
+    },
+    {
+      "valor": 233,
+      "estado_ibge": 53,
+      "ano": 2004
+    },
+    {
+      "valor": 12,
+      "estado_ibge": 11,
+      "ano": 2005
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 12,
+      "ano": 2005
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 13,
+      "ano": 2005
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2005
+    },
+    {
+      "valor": 42,
+      "estado_ibge": 15,
+      "ano": 2005
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 16,
+      "ano": 2005
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 17,
+      "ano": 2005
+    },
+    {
+      "valor": 59,
+      "estado_ibge": 21,
+      "ano": 2005
+    },
+    {
+      "valor": 14,
+      "estado_ibge": 22,
+      "ano": 2005
+    },
+    {
+      "valor": 94,
+      "estado_ibge": 23,
+      "ano": 2005
+    },
+    {
+      "valor": 10,
+      "estado_ibge": 24,
+      "ano": 2005
+    },
+    {
+      "valor": 25,
+      "estado_ibge": 25,
+      "ano": 2005
+    },
+    {
+      "valor": 134,
+      "estado_ibge": 26,
+      "ano": 2005
+    },
+    {
+      "valor": 25,
+      "estado_ibge": 27,
+      "ano": 2005
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 28,
+      "ano": 2005
+    },
+    {
+      "valor": 218,
+      "estado_ibge": 29,
+      "ano": 2005
+    },
+    {
+      "valor": 743,
+      "estado_ibge": 31,
+      "ano": 2005
+    },
+    {
+      "valor": 43,
+      "estado_ibge": 32,
+      "ano": 2005
+    },
+    {
+      "valor": 1319,
+      "estado_ibge": 33,
+      "ano": 2005
+    },
+    {
+      "valor": 1782,
+      "estado_ibge": 35,
+      "ano": 2005
+    },
+    {
+      "valor": 353,
+      "estado_ibge": 41,
+      "ano": 2005
+    },
+    {
+      "valor": 252,
+      "estado_ibge": 42,
+      "ano": 2005
+    },
+    {
+      "valor": 384,
+      "estado_ibge": 43,
+      "ano": 2005
+    },
+    {
+      "valor": 39,
+      "estado_ibge": 50,
+      "ano": 2005
+    },
+    {
+      "valor": 30,
+      "estado_ibge": 51,
+      "ano": 2005
+    },
+    {
+      "valor": 122,
+      "estado_ibge": 52,
+      "ano": 2005
+    },
+    {
+      "valor": 229,
+      "estado_ibge": 53,
+      "ano": 2005
+    },
+    {
+      "valor": 7,
+      "estado_ibge": 11,
+      "ano": 2006
+    },
+    {
+      "valor": 8,
+      "estado_ibge": 12,
+      "ano": 2006
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 13,
+      "ano": 2006
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2006
+    },
+    {
+      "valor": 40,
+      "estado_ibge": 15,
+      "ano": 2006
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 16,
+      "ano": 2006
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 17,
+      "ano": 2006
+    },
+    {
+      "valor": 40,
+      "estado_ibge": 21,
+      "ano": 2006
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 22,
+      "ano": 2006
+    },
+    {
+      "valor": 101,
+      "estado_ibge": 23,
+      "ano": 2006
+    },
+    {
+      "valor": 14,
+      "estado_ibge": 24,
+      "ano": 2006
+    },
+    {
+      "valor": 28,
+      "estado_ibge": 25,
+      "ano": 2006
+    },
+    {
+      "valor": 123,
+      "estado_ibge": 26,
+      "ano": 2006
+    },
+    {
+      "valor": 21,
+      "estado_ibge": 27,
+      "ano": 2006
+    },
+    {
+      "valor": 21,
+      "estado_ibge": 28,
+      "ano": 2006
+    },
+    {
+      "valor": 241,
+      "estado_ibge": 29,
+      "ano": 2006
+    },
+    {
+      "valor": 835,
+      "estado_ibge": 31,
+      "ano": 2006
+    },
+    {
+      "valor": 34,
+      "estado_ibge": 32,
+      "ano": 2006
+    },
+    {
+      "valor": 1485,
+      "estado_ibge": 33,
+      "ano": 2006
+    },
+    {
+      "valor": 2013,
+      "estado_ibge": 35,
+      "ano": 2006
+    },
+    {
+      "valor": 394,
+      "estado_ibge": 41,
+      "ano": 2006
+    },
+    {
+      "valor": 262,
+      "estado_ibge": 42,
+      "ano": 2006
+    },
+    {
+      "valor": 418,
+      "estado_ibge": 43,
+      "ano": 2006
+    },
+    {
+      "valor": 30,
+      "estado_ibge": 50,
+      "ano": 2006
+    },
+    {
+      "valor": 24,
+      "estado_ibge": 51,
+      "ano": 2006
+    },
+    {
+      "valor": 106,
+      "estado_ibge": 52,
+      "ano": 2006
+    },
+    {
+      "valor": 236,
+      "estado_ibge": 53,
+      "ano": 2006
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 11,
+      "ano": 2007
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 12,
+      "ano": 2007
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 13,
+      "ano": 2007
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2007
+    },
+    {
+      "valor": 38,
+      "estado_ibge": 15,
+      "ano": 2007
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 16,
+      "ano": 2007
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 17,
+      "ano": 2007
+    },
+    {
+      "valor": 37,
+      "estado_ibge": 21,
+      "ano": 2007
+    },
+    {
+      "valor": 13,
+      "estado_ibge": 22,
+      "ano": 2007
+    },
+    {
+      "valor": 109,
+      "estado_ibge": 23,
+      "ano": 2007
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 24,
+      "ano": 2007
+    },
+    {
+      "valor": 31,
+      "estado_ibge": 25,
+      "ano": 2007
+    },
+    {
+      "valor": 159,
+      "estado_ibge": 26,
+      "ano": 2007
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 27,
+      "ano": 2007
+    },
+    {
+      "valor": 18,
+      "estado_ibge": 28,
+      "ano": 2007
+    },
+    {
+      "valor": 287,
+      "estado_ibge": 29,
+      "ano": 2007
+    },
+    {
+      "valor": 861,
+      "estado_ibge": 31,
+      "ano": 2007
+    },
+    {
+      "valor": 36,
+      "estado_ibge": 32,
+      "ano": 2007
+    },
+    {
+      "valor": 1451,
+      "estado_ibge": 33,
+      "ano": 2007
+    },
+    {
+      "valor": 1847,
+      "estado_ibge": 35,
+      "ano": 2007
+    },
+    {
+      "valor": 298,
+      "estado_ibge": 41,
+      "ano": 2007
+    },
+    {
+      "valor": 215,
+      "estado_ibge": 42,
+      "ano": 2007
+    },
+    {
+      "valor": 471,
+      "estado_ibge": 43,
+      "ano": 2007
+    },
+    {
+      "valor": 30,
+      "estado_ibge": 50,
+      "ano": 2007
+    },
+    {
+      "valor": 37,
+      "estado_ibge": 51,
+      "ano": 2007
+    },
+    {
+      "valor": 101,
+      "estado_ibge": 52,
+      "ano": 2007
+    },
+    {
+      "valor": 229,
+      "estado_ibge": 53,
+      "ano": 2007
+    },
+    {
+      "valor": 10,
+      "estado_ibge": 11,
+      "ano": 2008
+    },
+    {
+      "valor": 7,
+      "estado_ibge": 12,
+      "ano": 2008
+    },
+    {
+      "valor": 24,
+      "estado_ibge": 13,
+      "ano": 2008
+    },
+    {
+      "valor": 3,
+      "estado_ibge": 14,
+      "ano": 2008
+    },
+    {
+      "valor": 42,
+      "estado_ibge": 15,
+      "ano": 2008
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 16,
+      "ano": 2008
+    },
+    {
+      "valor": 8,
+      "estado_ibge": 17,
+      "ano": 2008
+    },
+    {
+      "valor": 42,
+      "estado_ibge": 21,
+      "ano": 2008
+    },
+    {
+      "valor": 14,
+      "estado_ibge": 22,
+      "ano": 2008
+    },
+    {
+      "valor": 101,
+      "estado_ibge": 23,
+      "ano": 2008
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 24,
+      "ano": 2008
+    },
+    {
+      "valor": 36,
+      "estado_ibge": 25,
+      "ano": 2008
+    },
+    {
+      "valor": 139,
+      "estado_ibge": 26,
+      "ano": 2008
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 27,
+      "ano": 2008
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 28,
+      "ano": 2008
+    },
+    {
+      "valor": 242,
+      "estado_ibge": 29,
+      "ano": 2008
+    },
+    {
+      "valor": 765,
+      "estado_ibge": 31,
+      "ano": 2008
+    },
+    {
+      "valor": 32,
+      "estado_ibge": 32,
+      "ano": 2008
+    },
+    {
+      "valor": 1546,
+      "estado_ibge": 33,
+      "ano": 2008
+    },
+    {
+      "valor": 2055,
+      "estado_ibge": 35,
+      "ano": 2008
+    },
+    {
+      "valor": 286,
+      "estado_ibge": 41,
+      "ano": 2008
+    },
+    {
+      "valor": 250,
+      "estado_ibge": 42,
+      "ano": 2008
+    },
+    {
+      "valor": 467,
+      "estado_ibge": 43,
+      "ano": 2008
+    },
+    {
+      "valor": 22,
+      "estado_ibge": 50,
+      "ano": 2008
+    },
+    {
+      "valor": 34,
+      "estado_ibge": 51,
+      "ano": 2008
+    },
+    {
+      "valor": 123,
+      "estado_ibge": 52,
+      "ano": 2008
+    },
+    {
+      "valor": 174,
+      "estado_ibge": 53,
+      "ano": 2008
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 11,
+      "ano": 2009
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 12,
+      "ano": 2009
+    },
+    {
+      "valor": 14,
+      "estado_ibge": 13,
+      "ano": 2009
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 14,
+      "ano": 2009
+    },
+    {
+      "valor": 33,
+      "estado_ibge": 15,
+      "ano": 2009
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 16,
+      "ano": 2009
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 17,
+      "ano": 2009
+    },
+    {
+      "valor": 11,
+      "estado_ibge": 21,
+      "ano": 2009
+    },
+    {
+      "valor": 7,
+      "estado_ibge": 22,
+      "ano": 2009
+    },
+    {
+      "valor": 119,
+      "estado_ibge": 23,
+      "ano": 2009
+    },
+    {
+      "valor": 10,
+      "estado_ibge": 24,
+      "ano": 2009
+    },
+    {
+      "valor": 16,
+      "estado_ibge": 25,
+      "ano": 2009
+    },
+    {
+      "valor": 105,
+      "estado_ibge": 26,
+      "ano": 2009
+    },
+    {
+      "valor": 11,
+      "estado_ibge": 27,
+      "ano": 2009
+    },
+    {
+      "valor": 8,
+      "estado_ibge": 28,
+      "ano": 2009
+    },
+    {
+      "valor": 171,
+      "estado_ibge": 29,
+      "ano": 2009
+    },
+    {
+      "valor": 690,
+      "estado_ibge": 31,
+      "ano": 2009
+    },
+    {
+      "valor": 26,
+      "estado_ibge": 32,
+      "ano": 2009
+    },
+    {
+      "valor": 1371,
+      "estado_ibge": 33,
+      "ano": 2009
+    },
+    {
+      "valor": 1866,
+      "estado_ibge": 35,
+      "ano": 2009
+    },
+    {
+      "valor": 260,
+      "estado_ibge": 41,
+      "ano": 2009
+    },
+    {
+      "valor": 233,
+      "estado_ibge": 42,
+      "ano": 2009
+    },
+    {
+      "valor": 417,
+      "estado_ibge": 43,
+      "ano": 2009
+    },
+    {
+      "valor": 18,
+      "estado_ibge": 50,
+      "ano": 2009
+    },
+    {
+      "valor": 21,
+      "estado_ibge": 51,
+      "ano": 2009
+    },
+    {
+      "valor": 79,
+      "estado_ibge": 52,
+      "ano": 2009
+    },
+    {
+      "valor": 151,
+      "estado_ibge": 53,
+      "ano": 2009
+    },
+    {
+      "valor": 3,
+      "estado_ibge": 12,
+      "ano": 2010
+    },
+    {
+      "valor": 20,
+      "estado_ibge": 13,
+      "ano": 2010
+    },
+    {
+      "valor": 0,
+      "estado_ibge": 16,
+      "ano": 2010
+    },
+    {
+      "valor": 22,
+      "estado_ibge": 21,
+      "ano": 2010
+    },
+    {
+      "valor": 119,
+      "estado_ibge": 23,
+      "ano": 2010
+    },
+    {
+      "valor": 8,
+      "estado_ibge": 27,
+      "ano": 2010
+    },
+    {
+      "valor": 220,
+      "estado_ibge": 29,
+      "ano": 2010
+    },
+    {
+      "valor": 729,
+      "estado_ibge": 31,
+      "ano": 2010
+    },
+    {
+      "valor": 57,
+      "estado_ibge": 32,
+      "ano": 2010
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 50,
+      "ano": 2010
+    },
+    {
+      "valor": 104,
+      "estado_ibge": 52,
+      "ano": 2010
+    },
+    {
+      "valor": 179,
+      "estado_ibge": 53,
+      "ano": 2010
+    },
+    {
+      "valor": 42,
+      "estado_ibge": 51,
+      "ano": 2010
+    },
+    {
+      "valor": 50,
+      "estado_ibge": 15,
+      "ano": 2010
+    },
+    {
+      "valor": 24,
+      "estado_ibge": 25,
+      "ano": 2010
+    },
+    {
+      "valor": 135,
+      "estado_ibge": 26,
+      "ano": 2010
+    },
+    {
+      "valor": 12,
+      "estado_ibge": 22,
+      "ano": 2010
+    },
+    {
+      "valor": 295,
+      "estado_ibge": 41,
+      "ano": 2010
+    },
+    {
+      "valor": 1885,
+      "estado_ibge": 33,
+      "ano": 2010
+    },
+    {
+      "valor": 11,
+      "estado_ibge": 24,
+      "ano": 2010
+    },
+    {
+      "valor": 7,
+      "estado_ibge": 11,
+      "ano": 2010
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2010
+    },
+    {
+      "valor": 537,
+      "estado_ibge": 43,
+      "ano": 2010
+    },
+    {
+      "valor": 314,
+      "estado_ibge": 42,
+      "ano": 2010
+    },
+    {
+      "valor": 9,
+      "estado_ibge": 28,
+      "ano": 2010
+    },
+    {
+      "valor": 2385,
+      "estado_ibge": 35,
+      "ano": 2010
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 17,
+      "ano": 2010
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 12,
+      "ano": 2011
+    },
+    {
+      "valor": 9,
+      "estado_ibge": 27,
+      "ano": 2011
+    },
+    {
+      "valor": 18,
+      "estado_ibge": 13,
+      "ano": 2011
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 16,
+      "ano": 2011
+    },
+    {
+      "valor": 333,
+      "estado_ibge": 29,
+      "ano": 2011
+    },
+    {
+      "valor": 168,
+      "estado_ibge": 23,
+      "ano": 2011
+    },
+    {
+      "valor": 210,
+      "estado_ibge": 53,
+      "ano": 2011
+    },
+    {
+      "valor": 77,
+      "estado_ibge": 32,
+      "ano": 2011
+    },
+    {
+      "valor": 129,
+      "estado_ibge": 52,
+      "ano": 2011
+    },
+    {
+      "valor": 21,
+      "estado_ibge": 21,
+      "ano": 2011
+    },
+    {
+      "valor": 825,
+      "estado_ibge": 31,
+      "ano": 2011
+    },
+    {
+      "valor": 20,
+      "estado_ibge": 50,
+      "ano": 2011
+    },
+    {
+      "valor": 57,
+      "estado_ibge": 51,
+      "ano": 2011
+    },
+    {
+      "valor": 33,
+      "estado_ibge": 15,
+      "ano": 2011
+    },
+    {
+      "valor": 46,
+      "estado_ibge": 25,
+      "ano": 2011
+    },
+    {
+      "valor": 129,
+      "estado_ibge": 26,
+      "ano": 2011
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 22,
+      "ano": 2011
+    },
+    {
+      "valor": 425,
+      "estado_ibge": 41,
+      "ano": 2011
+    },
+    {
+      "valor": 1908,
+      "estado_ibge": 33,
+      "ano": 2011
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 24,
+      "ano": 2011
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 11,
+      "ano": 2011
+    },
+    {
+      "valor": 2,
+      "estado_ibge": 14,
+      "ano": 2011
+    },
+    {
+      "valor": 525,
+      "estado_ibge": 43,
+      "ano": 2011
+    },
+    {
+      "valor": 322,
+      "estado_ibge": 42,
+      "ano": 2011
+    },
+    {
+      "valor": 24,
+      "estado_ibge": 28,
+      "ano": 2011
+    },
+    {
+      "valor": 2586,
+      "estado_ibge": 35,
+      "ano": 2011
+    },
+    {
+      "valor": 8,
+      "estado_ibge": 17,
+      "ano": 2011
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 12,
+      "ano": 2012
+    },
+    {
+      "valor": 7,
+      "estado_ibge": 27,
+      "ano": 2012
+    },
+    {
+      "valor": 17,
+      "estado_ibge": 13,
+      "ano": 2012
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 16,
+      "ano": 2012
+    },
+    {
+      "valor": 204,
+      "estado_ibge": 29,
+      "ano": 2012
+    },
+    {
+      "valor": 125,
+      "estado_ibge": 23,
+      "ano": 2012
+    },
+    {
+      "valor": 134,
+      "estado_ibge": 53,
+      "ano": 2012
+    },
+    {
+      "valor": 46,
+      "estado_ibge": 32,
+      "ano": 2012
+    },
+    {
+      "valor": 100,
+      "estado_ibge": 52,
+      "ano": 2012
+    },
+    {
+      "valor": 18,
+      "estado_ibge": 21,
+      "ano": 2012
+    },
+    {
+      "valor": 775,
+      "estado_ibge": 31,
+      "ano": 2012
+    },
+    {
+      "valor": 25,
+      "estado_ibge": 50,
+      "ano": 2012
+    },
+    {
+      "valor": 24,
+      "estado_ibge": 51,
+      "ano": 2012
+    },
+    {
+      "valor": 39,
+      "estado_ibge": 15,
+      "ano": 2012
+    },
+    {
+      "valor": 18,
+      "estado_ibge": 25,
+      "ano": 2012
+    },
+    {
+      "valor": 122,
+      "estado_ibge": 26,
+      "ano": 2012
+    },
+    {
+      "valor": 10,
+      "estado_ibge": 22,
+      "ano": 2012
+    },
+    {
+      "valor": 374,
+      "estado_ibge": 41,
+      "ano": 2012
+    },
+    {
+      "valor": 1396,
+      "estado_ibge": 33,
+      "ano": 2012
+    },
+    {
+      "valor": 19,
+      "estado_ibge": 24,
+      "ano": 2012
+    },
+    {
+      "valor": 8,
+      "estado_ibge": 11,
+      "ano": 2012
+    },
+    {
+      "valor": 1,
+      "estado_ibge": 14,
+      "ano": 2012
+    },
+    {
+      "valor": 462,
+      "estado_ibge": 43,
+      "ano": 2012
+    },
+    {
+      "valor": 307,
+      "estado_ibge": 42,
+      "ano": 2012
+    },
+    {
+      "valor": 13,
+      "estado_ibge": 28,
+      "ano": 2012
+    },
+    {
+      "valor": 2089,
+      "estado_ibge": 35,
+      "ano": 2012
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 17,
+      "ano": 2012
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 12,
+      "ano": 2013
+    },
+    {
+      "valor": 5,
+      "estado_ibge": 27,
+      "ano": 2013
+    },
+    {
+      "valor": 15,
+      "estado_ibge": 13,
+      "ano": 2013
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 16,
+      "ano": 2013
+    },
+    {
+      "valor": 190,
+      "estado_ibge": 29,
+      "ano": 2013
+    },
+    {
+      "valor": 131,
+      "estado_ibge": 23,
+      "ano": 2013
+    },
+    {
+      "valor": 146,
+      "estado_ibge": 53,
+      "ano": 2013
+    },
+    {
+      "valor": 35,
+      "estado_ibge": 32,
+      "ano": 2013
+    },
+    {
+      "valor": 109,
+      "estado_ibge": 52,
+      "ano": 2013
+    },
+    {
+      "valor": 13,
+      "estado_ibge": 21,
+      "ano": 2013
+    },
+    {
+      "valor": 824,
+      "estado_ibge": 31,
+      "ano": 2013
+    },
+    {
+      "valor": 22,
+      "estado_ibge": 50,
+      "ano": 2013
+    },
+    {
+      "valor": 32,
+      "estado_ibge": 51,
+      "ano": 2013
+    },
+    {
+      "valor": 37,
+      "estado_ibge": 15,
+      "ano": 2013
+    },
+    {
+      "valor": 21,
+      "estado_ibge": 25,
+      "ano": 2013
+    },
+    {
+      "valor": 111,
+      "estado_ibge": 26,
+      "ano": 2013
+    },
+    {
+      "valor": 14,
+      "estado_ibge": 22,
+      "ano": 2013
+    },
+    {
+      "valor": 416,
+      "estado_ibge": 41,
+      "ano": 2013
+    },
+    {
+      "valor": 1326,
+      "estado_ibge": 33,
+      "ano": 2013
+    },
+    {
+      "valor": 33,
+      "estado_ibge": 24,
+      "ano": 2013
+    },
+    {
+      "valor": 9,
+      "estado_ibge": 11,
+      "ano": 2013
+    },
+    {
+      "valor": 567,
+      "estado_ibge": 43,
+      "ano": 2013
+    },
+    {
+      "valor": 304,
+      "estado_ibge": 42,
+      "ano": 2013
+    },
+    {
+      "valor": 7,
+      "estado_ibge": 28,
+      "ano": 2013
+    },
+    {
+      "valor": 2062,
+      "estado_ibge": 35,
+      "ano": 2013
+    },
+    {
+      "valor": 4,
+      "estado_ibge": 17,
+      "ano": 2013
+    }
+  ]
+}

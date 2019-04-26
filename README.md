@@ -3,6 +3,14 @@
 
 Este repositório tem como objetivo apresentar alguns códigos de exemplos utilizando diferentes frameworks de Big Data.
 
+###Antes de começar
+
+Para qualquer um dos projetos, **você vai precisar do ambiente Hadoop levantado**. Para levantar o Hadoop localmente basta digitar o comando abaixo no terminal:
+
+~~~
+start-all.sh
+~~~
+
 Os exemplos deste projeto utilizam o ambiente Ubuntu 16.04 já configurado com:
 - [Apache Hadoop](http://hadoop.apache.org/)
 - [Apache Spark](https://spark.apache.org/)

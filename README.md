@@ -11,6 +11,8 @@ Para qualquer um dos projetos, **você vai precisar do ambiente Hadoop levantado
 start-all.sh
 ~~~
 
+### Ferramentas Big Data neste repositório
+
 Os exemplos deste projeto utilizam o ambiente Ubuntu 16.04 já configurado com:
 - [Apache Hadoop](http://hadoop.apache.org/)
 - [Apache Spark](https://spark.apache.org/)

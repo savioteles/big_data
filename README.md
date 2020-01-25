@@ -5,7 +5,7 @@ Este repositório tem como objetivo apresentar alguns códigos de exemplos utili
 
 ### Antes de começar
 
-O ambiente está todo configurado na máquina virtual disponível no seguinte [link](https://www.dropbox.com/s/iaa7x3wxk35e4lm/ETL.ova?dl=1). Baixe a máquina virtual e importe no VirtualBox. Esta máquina virtual precisa de ao menos 8 GB de memória RAM.
+O ambiente está todo configurado na máquina virtual disponível no seguinte [link](https://www.dropbox.com/s/iaa7x3wxk35e4lm/ETL.ova?dl=1). Baixe a máquina virtual e importe no VirtualBox. Esta máquina virtual precisa de ao menos 8 GB de memória RAM. **A senha da máquina virtual é etl**
 
 Para qualquer um dos projetos, **você vai precisar do ambiente Hadoop levantado**. Para levantar o Hadoop localmente basta digitar o comando abaixo no terminal:
 

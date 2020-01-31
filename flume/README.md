@@ -44,4 +44,12 @@ agent.sinks.sink2.channel = chan2
 - Execute o Apache Flume com o a configuração do stream acima (que está salvo no arquivo conf/example.conf)
 	
 	```bin/flume-ng agent --conf conf --conf-file conf/example.conf --name agent -Dflume.root.logger=INFO,console```
+	
+## Exercício
+
+1- Usando o Apache Flume execute as seguintes integrações:
+
+* Dos arquivos TISS no formato XML que estão na pasta /home/etl/Downloads/hospital/tiss/xml para o HDFS no caminho /fasam/hospital/xml
+
+* Do manual de instrução do TISS no formato PDF que está na pasta /home/etl/Downloads/hospital/tiss/manual para o HDFS no caminho /fasam/hospital/manual
 

@@ -31,5 +31,5 @@
     ```bin/sqoop import --connect jdbc:postgresql://localhost/postgres --username postgres --password postgres --driver org.postgresql.Driver --table orders_sale -m 4 --split-by row_id --target-dir /fasam/orders_sale_parallel```
     
 ## Exercício
-1 - Faça a integração da tabela orders_sale do Postgres para o HDFS enviando as colunas *order_id*, *order_date*, *order_priority* e *sales* dos dados de vendas que tem valores (coluna *sales*) maiores que 100 e prioridade alta (coluna *order_priority* igual a *High*). Utilize o paralelismo igual a 2 dividindo o workload pela coluna *order_date*.
+1 - Faça a integração da tabela orders_sale do Postgres para o HDFS enviando as colunas [*order_id*, *order_date*, *order_priority* e *sales*] dos dados de vendas que tem valores (coluna *sales*) maiores que 100 e prioridade alta (coluna *order_priority* igual a *High*). Utilize o paralelismo igual a 2 dividindo o workload pela coluna *order_date*.
 

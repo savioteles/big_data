@@ -1,0 +1,45 @@
+version: "3"
+services:
+  postgres-db:
+    image: postgres
+    restart: always
+    container_name: postgres
+    ports:
+      - 5432:5432
+    networks:
+      - twitter-net
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: metabase
+      POSTGRES_DB: metabase
+      PGDATA: /var/lib/postgresql/data
+    volumes:
+      # Indica onde ficarão os dados no host: /host/dir:/container/dir
+      - /postgres:/var/lib/postgresql/data
+
+  metabase-app:
+    image: metabase/metabase
+    restart: always
+    container_name: metabase
+    ports:
+      - 3001:3000
+    volumes:
+      # Indica onde ficarão os dados no host: /host/dir:/container/dir
+      - /metabase:/metabase-data
+    environment:
+      MB_DB_TYPE: postgres
+      MB_DB_DBNAME: metabase
+      MB_DB_PORT: 5432
+      MB_DB_USER: metabase
+      MB_DB_PASS: postgres
+      MB_DB_HOST: postgres-db
+    networks:
+      - twitter-net
+    depends_on:
+      - postgres-db
+    links:
+      - postgres-db
+
+networks: 
+  twitter-net:
+    driver: bridge

@@ -1,0 +1,67 @@
+version: '3'
+services:
+  zookeeper:
+    image: confluentinc/cp-zookeeper:latest
+    restart: always
+    container_name: zookeeper
+    networks: 
+      - twitter-net
+    environment:
+      - ZOOKEEPER_CLIENT_PORT=2181
+      - ZOOKEEPER_TICK_TIME=2000
+      - ALLOW_ANONYMOUS_LOGIN=yes
+
+  kafka:
+    image: confluentinc/cp-kafka:latest
+    restart: always
+    container_name: kafka
+    networks: 
+      - twitter-net
+    depends_on:
+      - zookeeper
+    ports:
+      - 9092:9092
+    environment:
+      - KAFKA_BROKER_ID=1
+      - KAFKA_ZOOKEEPER_CONNECT=zookeeper:2181
+      - KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      - KAFKA_LISTENER_SECURITY_PROTOCOL_MAP=PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      - KAFKA_INTER_BROKER_LISTENER_NAME=PLAINTEXT
+      - KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1
+
+  kafdrop:
+    image: obsidiandynamics/kafdrop:latest
+    restart: always
+    container_name: kafkadrop
+    networks: 
+      - twitter-net
+    depends_on:
+      - kafka
+    ports:
+      - 19000:9000
+    environment:
+      - KAFKA_BROKERCONNECT=kafka:29092
+
+  nifi:
+    image: apache/nifi:latest
+    restart: always
+    hostname: nifi
+    container_name: nifi
+    ports:
+      - 8080:8080 # Porta HTTP
+    environment:
+      - NIFI_WEB_HTTP_PORT=8080
+      - NIFI_CLUSTER_IS_NODE=true
+      - NIFI_CLUSTER_NODE_PROTOCOL_PORT=8082
+      - NIFI_ZK_CONNECT_STRING=zookeeper:2181
+      - NIFI_ELECTION_MAX_WAIT=1 min
+    networks:
+      - twitter-net
+    depends_on:
+      - zookeeper
+    volumes:
+      - /nifi:/data
+
+networks: 
+  twitter-net:
+    driver: bridge

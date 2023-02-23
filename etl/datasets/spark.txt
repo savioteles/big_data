@@ -1,0 +1,22 @@
+O Apache Spark é uma ferramenta Big Data que tem o objetivo de processar grandes conjuntos de dados de forma paralela e distribuída. Ela estende o modelo de programação MapReduce popularizado pelo Apache Hadoop, facilitando bastante o desenvolvimento de aplicações de processamento de grandes volumes de dados. Além do modelo de programação estendido, o Spark também apresenta uma performance muito superior ao Hadoop, chegando em alguns casos a apresentar uma performance quase 100x maior.
+
+Outra grande vantagem do Spark, é que todos os componentes funcionam integrados na própria ferramenta, como o Spark Streamming, o Spark SQL e o GraphX, diferentemente do Hadoop, onde é necessário utilizar ferramentas que se integram a ele, mas que são distribuídas separadamente, como o Apache Hive. Além disso, outro aspecto importante é que ele permite a programação em três linguagens: Java, Scala e Python.
+
+O Spark tem diversos componentes para diferentes tipos de processamentos, todos construídos sobre o Spark Core, que é o componente que disponibiliza as funções básicas para o processamento como as funções map, reduce, filter e collect. Entre estes destacam-se s presentes na Figura 1:
+
+O Spark Streamming, que possibilita o processamento de fluxos em tempo real;
+O GraphX, que realiza o processamento sobre grafos;
+O SparkSQL para a utilização de SQL na realização de consultas e processamento sobre os dados no Spark;
+A MLlib, que é a biblioteca de aprendizado de máquina, com deferentes algoritmos para as mais diversas atividades, como clustering.
+
+Arquitetura do Spark
+
+Nessa seção serão explicadas as principais funcionalidades do Spark Core. Primeiro, será mostrada a arquitetura das aplicações e depois veremos os conceitos básicos no modelo de programação para o processamento de conjuntos de dados.
+
+A arquitetura de uma aplicação Spark é constituída por três partes principais:
+
+O Driver Program, que é a aplicação principal que gerencia a criação e é quem executará o processamento definido pelo programados;
+O Cluster Manager é um componente opcional que só é necessário se o Spark for executado de forma distribuída. Ele é responsável por administrar as máquinas que serão utilizadas como workers;
+Os Workers, que são as máquinas que realmente executarão as tarefas que são enviadas pelo Driver Program. Se o Spark for executado de forma local, a máquina desempenhará tanto o papel de Driver Program como de Worker.
+
+Fonte: https://www.devmedia.com.br/introducao-ao-apache-spark/34178
